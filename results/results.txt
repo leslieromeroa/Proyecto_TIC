@@ -1,0 +1,11 @@
+Resultados por terminal
+
+Estadísticas Máquina Virtual:
+latency: promedio=0.0000, max=0.0000, min=0.0000
+cpu: promedio=0.3088, max=5.0000, min=0.0000
+mem: promedio=12.1206, max=12.3000, min=12.0000
+
+Estadísticas Docker:
+latency: promedio=0.0000, max=0.0000, min=0.0000
+cpu: promedio=0.2176, max=4.3000, min=0.0000
+mem: promedio=11.8765, max=11.9000, min=11.8000
